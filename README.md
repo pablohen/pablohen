@@ -1,4 +1,4 @@
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
 <!---
 - 👋 Hi, I’m @pablohen
 - 👀 I’m interested in Javascript, React, Node.js, PHP and Python
