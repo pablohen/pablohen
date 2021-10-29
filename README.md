@@ -1,5 +1,10 @@
-¯\\_(ツ)_/¯
+![pablohen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablohen)
+
 <!---
+¯\\_(ツ)_/¯
+
+
+
 - 👋 Hi, I’m @pablohen
 - 👀 I’m interested in Javascript, React, Node.js, PHP and Python
 - 🌱 I’m currently relearning modern PHP
