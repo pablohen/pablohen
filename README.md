@@ -1,4 +1,4 @@
-¯\\_(ツ)_/¯
+📦
 
 <!---![pablohen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablohen&show_icons=true&theme=github_dark)
 
